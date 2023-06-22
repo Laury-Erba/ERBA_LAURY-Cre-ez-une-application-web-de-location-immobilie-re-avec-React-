@@ -7,14 +7,14 @@
 }
 
 .banner {
-    background: url("../Assets/BackgroundFilter.png"), url("../Assets/BackgroundHome.jpg");
+    background: url("../Assets/BackgroundFilter.png"), url("../Assets/img-home.png");
     background-position: center;
     background-size: cover;
     border-radius: 25px;
 }
 
 .banner2 {
-    background: url("../Assets/BackgroundFilter.png"), url("../Assets/Background.jpg");
+    background: url("../Assets/BackgroundFilter.png"), url("../Assets/img-montagne.png");
     background-position: center;
     background-size: cover;
     border-radius: 25px;
