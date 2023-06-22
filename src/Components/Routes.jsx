@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Home from "../Pages/Home"
 import About from "../Pages/About"
-import Card from "../Pages/Card"
+import Card from "../Pages/Cards"
 import ErrorPage from "../Pages/ErrorPage"
 
 // défini les routes, c'ette fonction est appelé dans index.js
