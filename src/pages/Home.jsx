@@ -1,8 +1,7 @@
 import React from 'react'
 import Navbar from "../Layout/Navbar"
-//import Shaping from '../Layout/Shaping'
 import Banner from '../Components/Banner'
-//import Footer from "../Layout/Footer"
+import Footer from "../Layout/Footer"
 import Cards from '../Components/Cards'
 
 import "../Styles/Home.css"
@@ -18,6 +17,7 @@ function Home() {
                     </div>
                 </Banner>
                 <Cards />
+                <Footer />
             
         
         </div>
