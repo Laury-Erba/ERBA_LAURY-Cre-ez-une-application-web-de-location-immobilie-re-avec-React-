@@ -9,7 +9,6 @@ import "../Styles/Home.css"
 function Home() {
     return (
         <div role="main">
-            
                 <Navbar />
                 <Banner>
                     <div className="banner banner-commun">
@@ -18,8 +17,6 @@ function Home() {
                 </Banner>
                 <Cards />
                 <Footer />
-            
-        
         </div>
     )
 }
